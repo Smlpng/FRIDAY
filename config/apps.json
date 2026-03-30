@@ -1,0 +1,33 @@
+{
+  "apps": {
+    "chrome": {
+      "path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+    },
+    "spotify": {
+      "uri": "spotify:"
+    },
+    "steam": {
+      "path": "C:/Program Files (x86)/Steam/steam.exe"
+    },
+    "valorant": {
+      "path": "C:/Riot Games/Riot Client/RiotClientServices.exe",
+      "args": [
+        "--launch-product=valorant",
+        "--launch-patchline=live"
+      ]
+    },
+    "cs2": {
+      "path": "C:/Program Files (x86)/Steam/steam.exe",
+      "args": [
+        "steam://rungameid/730"
+      ]
+    }
+  },
+  "aliases": {
+    "google chrome": "chrome",
+    "navegador": "chrome",
+    "spotify music": "spotify",
+    "counter strike": "cs2",
+    "counter strike 2": "cs2"
+  }
+}

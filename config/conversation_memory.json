@@ -1,0 +1,92 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "você está aí",
+      "timestamp": 1774832239.0963922
+    },
+    {
+      "role": "assistant",
+      "content": "Sim, estou aqui.",
+      "timestamp": 1774832239.0963922
+    },
+    {
+      "role": "user",
+      "content": "abra o spotify",
+      "timestamp": 1774832246.8938851
+    },
+    {
+      "role": "assistant",
+      "content": "Tentando abrir o aplicativo solicitado.",
+      "timestamp": 1774832246.8938851
+    },
+    {
+      "role": "user",
+      "content": "agora pokémon",
+      "timestamp": 1774832275.0720723
+    },
+    {
+      "role": "assistant",
+      "content": "Buscando e tocando Pokémon no Spotify.",
+      "timestamp": 1774832275.0720723
+    },
+    {
+      "role": "user",
+      "content": "abrir spotify",
+      "timestamp": 1774841965.2652185
+    },
+    {
+      "role": "assistant",
+      "content": "Abrindo o Spotify.",
+      "timestamp": 1774841965.2652185
+    },
+    {
+      "role": "user",
+      "content": "tocar a música vem ser minha de charlie brown",
+      "timestamp": 1774842016.7524223
+    },
+    {
+      "role": "assistant",
+      "content": "Buscando no Spotify: vem ser minha de charlie brown.",
+      "timestamp": 1774842016.7524223
+    },
+    {
+      "role": "user",
+      "content": "tocar a música vem ser minha do charlie brown",
+      "timestamp": 1774842048.8732822
+    },
+    {
+      "role": "assistant",
+      "content": "Tocando \"Vem Ser Minha\" de Charlie Brown Jr. no Spotify.",
+      "timestamp": 1774842048.8732822
+    },
+    {
+      "role": "user",
+      "content": "abrir o roblox no chrome",
+      "timestamp": 1774842079.6814952
+    },
+    {
+      "role": "assistant",
+      "content": "Abrindo Roblox no Chrome.",
+      "timestamp": 1774842079.6814952
+    }
+  ],
+  "slots": {
+    "last_music_query": {
+      "value": "vem ser minha charlie brown",
+      "updated_at": 1774842048.8732822
+    },
+    "last_media_query": {
+      "value": "vem ser minha charlie brown",
+      "updated_at": 1774842048.8732822
+    },
+    "last_media_platform": {
+      "value": "spotify",
+      "updated_at": 1774842048.8732822
+    },
+    "last_spotify_target": {
+      "value": "track",
+      "updated_at": 1774842048.8732822
+    }
+  }
+}

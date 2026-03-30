@@ -1,0 +1,33 @@
+{
+  "gemini_api_key": "sua_chave_aqui",
+  "gemini_model": "gemini-2.5-flash",
+  "friday_name": "friday",
+  "wake_words": ["friday", "sexta feira", "sexta-feira"],
+  "friday_language": "pt-BR",
+  "spotify": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "http://127.0.0.1:8765/callback",
+    "token_path": "config/spotify_token.json",
+    "scopes": [
+      "user-read-playback-state",
+      "user-modify-playback-state",
+      "playlist-read-private",
+      "playlist-read-collaborative"
+    ]
+  },
+  "voice": {
+    "microphone_device_index": null,
+    "phrase_time_limit": 6,
+    "ambient_noise_adjust_seconds": 1,
+    "energy_threshold": null
+  },
+  "memory": {
+    "path": "config/conversation_memory.json",
+    "ttl_minutes": 180,
+    "max_messages": 24
+  },
+  "gui": {
+    "particle_count": 850
+  }
+}
